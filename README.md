@@ -1,4 +1,3 @@
-# ANDR_UserLists
 ## Project Overview
 I developed the **ANDR_UserLists** project using Android Studio to enhance my skills in managing and displaying dynamic lists within an Android application. This project focuses on implementing user lists, providing functionalities such as adding, removing, and displaying user information efficiently.
 
